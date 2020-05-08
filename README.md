@@ -19,3 +19,12 @@ no_nines.py
 no_nines_check.py
    
    A brute force validation program for the 'no nines' problem
+
+longest_palindrome.py
+
+   Gets the longest palindrome from within a string
+   
+kings_circle.py
+
+   Google kickstart problem : https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff4/00000000000510ee
+   King's Circle . Checked only for a set of small datasets; appears to be working, no extensive testing done.Not optimized either.
